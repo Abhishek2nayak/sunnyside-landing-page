@@ -170,12 +170,12 @@ input[type=checkbox] {
     font-size: 4rem;
     color: var(--neu-white);
       transition: 1s ease-in-out;
-    animation: 1.5s ease-in-out 0s 1 slideUp;
+    animation: 2s ease-in-out 0s 1 slideUp;
 }
 
 .hero .down-arrow {
     margin-top: 50px;
-    transition: 0.5s ease-in-out;
+    transition: 1s ease-in-out;
     animation: 1.5s ease-in-out 0s 1 slideDown;
 
     text-align: center;
